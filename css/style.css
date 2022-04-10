@@ -1,6 +1,6 @@
 
 .img-1{
-  width: 300px;
+  width: 100%;
   display: block;
   cursor: pointer;
 }
@@ -16,8 +16,7 @@
 
 .video-preview{
   display: inline-block;
-  width: 300px;
-  margin: 10px;
+  width: 100%;
   vertical-align: top;
 }
 
@@ -35,6 +34,7 @@
 .img-row {
   margin-bottom: 8px;
   position: relative;
+  width:100%;
 }
 
 .video-author,
