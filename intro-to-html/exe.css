@@ -1,0 +1,101 @@
+.name{
+  display: block;
+}
+.description {
+  width: 250px;
+  
+
+}
+.yes{
+  display: block;
+}
+
+.no{
+  display: block;
+  margin-bottom: 60px;
+}
+
+.first{
+  display: inline-block;
+  width: 150px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-left: 10px;
+  font-size: 20px;
+  border-radius: 10px ;
+  border-width: 1px;
+  border-color: grey;
+  font-weight: lighter;
+  margin-right: 10px;
+}
+
+.last{
+  display: inline-block;
+  width: 150px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-left: 10px;
+  font-size: 20px;
+  border-radius: 7px ;
+  border-width: 1px;
+  border-color: grey;
+  font-weight: lighter;
+}
+.email{
+  display: block;
+  width: 320px;
+  border-radius: 5px;
+  border-width: 1px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-left: 20px;
+  margin-top: 10px;
+  font-size: 20px;
+  font-weight: lighter;
+}
+
+.sign{
+  background-color: rgb(92, 92, 246);
+  width: 344px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  margin-top: 10px;
+  border-radius: 5px;
+  border: none;
+  color: white;
+  font-weight: bold;
+  font-size: 20px;
+  margin-bottom: 30px;
+}
+
+.shape{
+  background-color: red;
+  width: 100px;
+  height: 100px;
+  border-radius: 50px;
+}
+
+.b{
+  width: 300px;
+  height: 100px;
+  border-width: 0.9px;
+  border: solid;
+  padding-left: 10px;
+  margin-bottom: 10px;
+}
+
+.img{
+  display: inline-block;
+  width: 300px;
+  height: 100px;
+}
+
+.text{
+  display: inline-block;
+  vertical-align: top;
+}
+
+button{
+  display: inline-block;
+  vertical-align: top;
+}
